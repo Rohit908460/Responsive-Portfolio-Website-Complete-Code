@@ -1,3 +1,6 @@
+![thumbnail](https://github.com/Rohit908460/Responsive-Portfolio-Website-Complete-Code/assets/88889236/1a3e621e-64c8-481b-89d3-9de2eb6bdbc7)
+
+
 Welcome to my portfolio website repository! This project showcases my skills, experience, and projects as a web developer. 
 The portfolio website is designed to highlight my work and provide an easy way to get in touch with me.
 
@@ -42,3 +45,4 @@ The portfolio website is designed to highlight my work and provide an easy way t
   <li><strong>Name:</strong>Rohit Chaudhary</li>
   <li><strong>Email:</strong>rkrohit908460@gmail.com</li>
 </ul>
+
